@@ -122,7 +122,7 @@ I have moderate hands-on coding experience, real project exposure, and I’m ste
 
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="center">
 
 <sub>💡 *The snake animation will appear after you push this to GitHub and run the workflow from the Actions tab*</sub>
 
