@@ -2,42 +2,35 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Generate snake
-        uses: Platane/snk@master
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: iamksr05
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color=random-dark
-      
-      - name: Commit to output branch
+          outputs: github-contribution-grid-snake.svg
+
+      - name: Push to output branch
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
-          
-          # Try to checkout output branch, create if it doesn't exist
-          git checkout output 2>/dev/null || git checkout -b output
-          
-          # Copy the generated file
-          mkdir -p output
-          cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
-          
-          # Commit and push
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "Update snake animation [skip ci]" || exit 0
-          git push origin output || git push -u origin output
+
+          # checkout or create output branch
+          git checkout output || git checkout -b output
+
+          # copy the generated file
+          cp github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update snake animation" || true
+          git push origin output
