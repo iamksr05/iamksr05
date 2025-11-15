@@ -25,6 +25,11 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color=random-dark
       
+      - name: Save generated file before branch switch
+        run: |
+          # Save the generated file to a temp location
+          cp dist/github-contribution-grid-snake.svg /tmp/github-contribution-grid-snake.svg
+      
       - name: Commit to output branch
         run: |
           git config user.name github-actions[bot]
@@ -36,8 +41,8 @@ jobs:
           # Try to checkout output branch, create if it doesn't exist
           git checkout output 2>/dev/null || git checkout --orphan output
           
-          # Copy the generated file from dist/ to the root of output branch
-          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          # Copy the saved file to the root of output branch
+          cp /tmp/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           
           # Commit and push
           git add github-contribution-grid-snake.svg
