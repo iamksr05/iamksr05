@@ -27,10 +27,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color=random-dark
       
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          destination_dir: output
-          cname: false
+      - name: Move file to root of output branch
+        run: |
+          mkdir -p output
+          cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
+      
+      - name: Push to output branch
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git checkout -b output 2>/dev/null || git checkout output || git checkout -b output
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Generate snake animation [skip ci]" || exit 0
+          git push origin output --force
