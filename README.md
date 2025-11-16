@@ -9,8 +9,8 @@
   <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=iamksr05&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/iamksr05?label=Total+Stars&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=0e75b6&logo=github" />
+  <img src="https://img.shields.io/github/stars/iamksr05?label=Total+Stars&style=for-the-badge&color=0e75b6&logo=github" />
   
 </div>
 
