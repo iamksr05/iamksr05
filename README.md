@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=700&height=100&duration=2500&pause=1000&color=6366F1&lines=Hi+There!+👋;I'm+Karan+Ram;Developer+%7C+AI%2FML+Explorer+%7C+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=100&duration=2000&pause=800&color=6366F1&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" />
   
   <br/><br/>
   
