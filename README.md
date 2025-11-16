@@ -1,17 +1,41 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=50&duration=1500&pause=1000&color=6366F1&lines=Hi+there!+I'm+Karan." alt="Hi there! I'm Karan." />
-
-  <table border="0" cellpadding="0" cellspacing="0" style="display:inline-block; vertical-align: top;">
-    <tr>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&vCenter=true&width=110&height=50&duration=1&pause=9999999&color=6366F1&lines=Let's" alt="Let's " />
-      </td>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&vCenter=true&width=180&height=50&duration=1500&pause=800&color=6366F1&lines=Dream;Learn;Innovate" alt="Dream; Learn; Innovate" />
-      </td>
-    </tr>
-  </table>
+  <svg width="700" height="60" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+      .text { font-family: 'Righteous', cursive; font-size: 32px; fill: #6366F1; }
+    </style>
+    <text x="350" y="40" text-anchor="middle" class="text">
+      <tspan>
+        <animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0s;11.6s" fill="freeze"/>
+        Hi there! I'm Karan.
+      </tspan>
+    </text>
+    <text x="350" y="40" text-anchor="middle" class="text">
+      <tspan opacity="0">
+        <animate attributeName="opacity" values="0;1;1" dur="0.1s" begin="4s;11.6s" fill="freeze"/>
+        Let's 
+      </tspan>
+      <tspan opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="4.1s;11.7s" fill="freeze"/>
+        Dream
+      </tspan>
+      <tspan opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="6.6s;14.2s" fill="freeze"/>
+        Learn
+      </tspan>
+      <tspan opacity="0">
+        <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="9.1s;16.7s" fill="freeze"/>
+        Innovate
+      </tspan>
+    </text>
+  </svg>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=iamksr05&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/GitHub-Stars-0e75b6?style=for-the-badge&logo=github" />
   
 </div>
 
