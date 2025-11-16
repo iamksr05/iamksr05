@@ -1,191 +1,159 @@
 <div align="center">
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjMxZDI5M2VmYjQ3YmFhZjBlN2RiNTRiMTg1MjdjYjZlMjU0YjA0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VzRzX1C26sKCWy3mYp/giphy.gif" width="100%" alt="Futuristic data waves banner"/>
-  
-  <br/>
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=A777FF&center=true&vCenter=true&width=600&lines=Developer+who+understands+the+full+system.;AI%2FML+Explorer.;Intermediate+Designer+%26+Video+Editor.;I+build%2C+I+break%2C+I+learn%2C+I+improve." />
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Karan+Ram;Developer+%7C+AI%2FML+Explorer+%7C+Builder+Mindset" />
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/tYAFiS-z-iMAAAAC/purple-line.gif" width="80%" alt="Neon purple line separator"/>
+  <img src="https://komarev.com/ghpvc/?username=iamksr05&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/iamksr05?label=Total+Stars&style=for-the-badge&color=0e75b6" />
 </div>
 
-<br>
+---
+
+## 👨‍💻 About Me  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&lines=[+A C T I V E+//+F O C U S+]">
-  
-  <br>
 
-  <table width="100%" style="border:0;">
-    <tr style="border:0;">
-      <td width="33%" valign="top" align="center" style="border:0; padding: 10px;">
-        <img src="https://img.icons8.com/fluency/48/000000/processor.png" alt="Processor Icon"/>
-        <h3 style="color:#A777FF; margin-bottom: 5px;">SYSTEMS & LOGIC</h3>
-        <p style="font-size: 14px; color: #DDDDDD;">
-          I understand how things <em>really</em> work: APIs, database logic, and backend integration. I enjoy making things clean and improving systems.
-        </p>
-      </td>
-      <td width="33%" valign="top" align="center" style="border:0; padding: 10px;">
-        <img src="https://img.icons8.com/fluency/48/000000/workstation.png" alt="Workstation Icon"/>
-        <h3 style="color:#A777FF; margin-bottom: 5px;">BUILD & BREAK</h3>
-        <p style="font-size: 14px; color: #DDDDDD;">
-          I have <strong>moderate, hands-on coding experience</strong>. I'm not an expert; I'm a builder. I believe breaking things is the fastest way to learn.
-        </p>
-      </td>
-      <td width="33%" valign="top" align="center" style="border:0; padding: 10px;">
-        <img src="https://img.icons8.com/fluency/48/000000/paint-palette.png" alt="Palette Icon"/>
-        <h3 style="color:#A777FF; margin-bottom: 5px;">EXPLORE & DESIGN</h3>
-        <p style="font-size: 14px; color: #DDDDDD;">
-          I'm actively exploring AI/ML applications. I also bring my <strong>intermediate skills in video editing and design</strong> to my technical work.
-        </p>
-      </td>
-    </tr>
-  </table>
+**I'm a developer who understands how things actually work — APIs, databases, backend logic, and system integration.**  
+I have moderate hands-on coding experience, real project exposure, and I’m steadily moving into **AI & Machine Learning**.
+
 </div>
 
-<br>
+### ✨ What I currently do
+- 🔧 Build things that work in real life  
+- 🔗 Connect backend + frontend + databases  
+- 📦 Understand API flows & interaction between systems  
+- 🤖 Explore early AI/ML concepts  
+- 🎨 Intermediate-level video editing & creative design  
+- 💥 Break things to learn — fix them to grow  
+
+### 💡 What I enjoy
+- Building products that help people  
+- Understanding logic behind systems  
+- Experimenting, integrating, testing  
+- Making things look clean & intuitive  
+
+---
+
+## 🛠️ Tech Stack (Authentic + Growing)
 
 <div align="center">
-  <img src="https://media.tenor.com/tYAFiS-z-iMAAAAC/purple-line.gif" width="80%" alt="Neon purple line separator"/>
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases (Used in Projects)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📦 Frameworks & Tools (Currently Exploring)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React_(Exploring)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_(Exploring)-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🎨 Creative Tools (Intermediate)
+![After Effects](https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🛠 Environment & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
-<br>
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&lines=[+T E C H N O L O G I E S+]">
-  
-  <br>
 
-  <table width="100%" style="border:0;">
-    <tr>
-      <td width="20%" align="right" valign="center" style="border:0; padding-right:10px;"><strong style="color:#A777FF;">INTERMEDIATE</strong></td>
-      <td width="80%" align="left" style="border:0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="40" height="40"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%" align="right" valign="center" style="border:0; padding-right:10px;"><strong style="color:#C792EA;">FAMILIAR</strong></td>
-      <td width="80%" align="left" style="border:0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="20%" align="right" valign="center" style="border:0; padding-right:10px;"><strong style="color:#9E9E9E;">EXPLORING</strong></td>
-      <td width="80%" align="left" style="border:0;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-      </td>
-    </tr>
-  </table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamksr05&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=iamksr05&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamksr05&theme=radical&hide_border=false&layout=compact)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamksr05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
-<br>
+---
+
+## 🔥 Contribution Graph  
 
 <div align="center">
-  <img src="https://media.tenor.com/tYAFiS-z-iMAAAAC/purple-line.gif" width="80%" alt="Neon purple line separator"/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamksr05&theme=redical&hide_border=true)
+
 </div>
 
-<br>
+---
+
+## 🎯 Featured Projects  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&lines=[+S E L E C T E D+//+W O R K+]">
-  
-  <br>
 
-  <table width="90%" style="border:0;">
-    <tr style="border:0;">
-      <td width="50%" valign="top" align="center" style="border: 2px solid #A777FF; border-radius: 10px; padding: 15px; background-color: #161B22;">
-        <h3 style="color:#A777FF; margin-top: 0;">InfoGeniusAI</h3>
-        <p style="font-size: 14px; color: #DDDDDD;">
-          An API-based AI tool.
-        </p>
-        <br>
-        <a href="https://github.com/iamksr05/InfoGeniusAI">
-          <img src="https://img.shields.io/badge/View_Repo-A777FF?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
-        </a>
-      </td>
-      <td width="50%" valign="top" align="center" style="border: 2px solid #A777FF; border-radius: 10px; padding: 15px; background-color: #161B22;">
-        <h3 style="color:#A777FF; margin-top: 0;">Comrade Learn AI</h3>
-        <p style="font-size: 14px; color: #DDDDDD;">
-          A learning platform for neurodiverse users.
-        </p>
-        <br>
-        <a href="https://github.com/iamksr05/Comrade-Learn-AI">
-          <img src="https://img.shields.io/badge/View_Repo-A777FF?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical)](https://github.com/iamksr05/InfoGeniusAI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical)](https://github.com/iamksr05/comrade-learn-ai)
+
 </div>
 
-<br>
+---
+
+## 💻 LeetCode Progress  
 
 <div align="center">
-  <img src="https://media.tenor.com/tYAFiS-z-iMAAAAC/purple-line.gif" width="80%" alt="Neon purple line separator"/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/iamksr05?theme=dark&font=Karma&ext=heatmap&border=0&radius=20)
+
 </div>
 
-<br>
+---
+
+## 🤝 Connect With Me  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&lines=[+A N A L Y T I C S+]">
-  
-  <br>
-  
-  <table width="90%" style="border:0;">
-    <tr style="border:0;">
-      <td width="50%" valign="top" align="center" style="border:0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=iamksr05&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&border_radius=10" alt="GitHub Stats"/>
-      </td>
-      <td width="50%" valign="top" align="center" style="border:0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamksr05&layout=compact&theme=radical&hide_border=true&bg_color=00000000&border_radius=10" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
 
-  <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamksr05/)
+[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamksr05)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karankr2885@gmail.com)
 
-  <img src="https://raw.githubusercontent.com/iamksr05/iamksr05/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br>
+---
+
+## 🎨 Random Dev Quote  
 
 <div align="center">
-  <img src="https://media.tenor.com/tYAFiS-z-iMAAAAC/purple-line.gif" width="80%" alt="Neon purple line separator"/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
-<br>
+---
+
+## 🐍 Snake Eating Your Contributions  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1&color=FFFFFF&center=true&vCenter=true&width=300&lines=[+G E T+//+I N+//+T O U C H+]">
-  
-  <br>
-  
-  <a href="https://www.linkedin.com/in/iamksr05/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/iamksr05">
-    <img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white" alt="X Badge"/>
-  </a>
-  <a href="mailto:karankr2885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+
+![Snake animation](https://github.com/iamksr05/iamksr05/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
-<br>
+---
 
 <div align="center">
-  <em style="font-size: 14px; color: #9E9E9E;">Clean systems. Clear code. Creative solutions.</em>
+
+### ⭐ From **iamksr05**
+
+**“I don’t just code — I build, break, learn, improve, and repeat.”**
+
 </div>
