@@ -1,21 +1,52 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=100&duration=4000&lines=Hi+There!+👋;I'm+Karan+Ram;Developer+%7C+AI%2FML+Explorer+%7C+Builder+Mindset" />
+  ```diff
++ ╔═══════════════════════════════════════════════════════════╗
++ ║                                                           ║
++ ║     ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗          ║
++ ║     ██║  ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║          ║
++ ║     ███████║███████║██████╔╝███████║██╔██╗ ██║          ║
++ ║     ██╔══██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║          ║
++ ║     ██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║          ║
++ ║     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝          ║
++ ║                                                           ║
++ ║          Developer | AI/ML Explorer | Builder            ║
++ ║                                                           ║
++ ╚═══════════════════════════════════════════════════════════╝
+  ```
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=console.log('Hello%2C+World!');%0A//+Building+amazing+things+one+commit+at+a+time" />
   
   <br/>
-  <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=iamksr05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/iamksr05?label=Total%20Stars&style=for-the-badge&color=0e75b6" alt="Total Stars" />
+  <img src="https://komarev.com/ghpvc/?username=iamksr05&label=👀%20Profile%20Views&color=00D9FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/iamksr05?label=👥%20Followers&style=flat-square&color=00D9FF" />
+  <img src="https://img.shields.io/github/stars/iamksr05?label=⭐%20Stars&style=flat-square&color=00D9FF" />
   
 </div>
 
-<br/>
+---
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  ### 🎯 **About Me**
+  
+  ```javascript
+  const karan = {
+    role: "Developer",
+    focus: ["Fullstack", "AI/ML"],
+    mindset: "Builder",
+    philosophy: "Understand how things work",
+    experience: "4 years of coding",
+    currentStatus: "Building real projects",
+    learning: ["Python", "Fullstack Dev", "Machine Learning"],
+    skills: {
+      technical: ["APIs", "Databases", "Backend Logic"],
+      creative: ["Video Editing", "Design"],
+      approach: "Break things to learn"
+    }
+  };
+  ```
   
 </div>
 
@@ -23,132 +54,169 @@
 
 <div align="center">
   
-  ### 🚀 **Passionate Developer** | **AI/ML Explorer** | **Creative Problem Solver**
-  
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=800&lines=I'm+a+developer+who+understands+how+things+actually+work;APIs%2C+databases%2C+backend+logic%2C+and+system+integration;Building+real+projects+and+exploring+AI+%26+Machine+Learning" />
-  
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✨ What I Currently Do
-
-- 🔧 **Build** things that work in real life  
-- 🔗 **Connect** backend + frontend + databases  
-- 📦 **Understand** API flows & system interactions  
-- 🤖 **Explore** early AI/ML concepts  
-- 🎨 **Create** with video editing & design  
-- 💥 **Break** things to learn — fix them to grow  
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 What I Enjoy
-
-- 🎯 Building products that help people  
-- 🧠 Understanding logic behind systems  
-- 🔬 Experimenting, integrating, testing  
-- ✨ Making things look clean & intuitive  
-- 🚀 Learning new technologies  
-- 💡 Solving complex problems  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-  ### 💻 **Languages**
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  <br/>
-  <br/>
-  
-  ### 🗄️ **Databases**
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-  <br/>
-  <br/>
-  
-  ### 📦 **Frameworks & Tools**
-  
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  <br/>
-  <br/>
-  
-  ### 🎨 **Creative Tools**
-  
-  ![After Effects](https://img.shields.io/badge/After_Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-  ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  
-  <br/>
-  <br/>
-  
-  ### 🛠️ **Environment & Workflow**
-  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamksr05&theme=redical&hide_border=true&area=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
-  
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-  
-  <h3>🚀 Check out my latest work</h3>
-  
-  <br/>
+  ### 💻 **What I Do**
   
   <table>
   <tr>
-  <td width="50%">
+  <td align="center" width="33%">
+  
+  **🔧 Building**
+  
+  Real-world applications that actually work
+  
+  </td>
+  <td align="center" width="33%">
+  
+  **🔗 Connecting**
+  
+  Backend + Frontend + Databases seamlessly
+  
+  </td>
+  <td align="center" width="33%">
+  
+  **🤖 Exploring**
+  
+  AI/ML concepts and building intelligent systems
+  
+  </td>
+  </tr>
+  <tr>
+  <td align="center" width="33%">
+  
+  **📦 Understanding**
+  
+  API flows & system interactions deeply
+  
+  </td>
+  <td align="center" width="33%">
+  
+  **🎨 Creating**
+  
+  With video editing & creative design
+  
+  </td>
+  <td align="center" width="33%">
+  
+  **💥 Learning**
+  
+  By breaking things and fixing them
+  
+  </td>
+  </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🛠️ **Tech Stack**
+  
+  <details>
+  <summary><b>💻 Languages</b> <i>(Click to expand)</i></summary>
+  
+  <br/>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  
+  </details>
+  
+  <details>
+  <summary><b>🗄️ Databases</b> <i>(Click to expand)</i></summary>
+  
+  <br/>
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+  
+  </details>
+  
+  <details>
+  <summary><b>📦 Frameworks & Tools</b> <i>(Click to expand)</i></summary>
+  
+  <br/>
+  
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  
+  </details>
+  
+  <details>
+  <summary><b>🎨 Creative Tools</b> <i>(Click to expand)</i></summary>
+  
+  <br/>
+  
+  ![After Effects](https://img.shields.io/badge/After_Effects-00005B?style=flat-square&logo=adobeaftereffects&logoColor=white)
+  ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+  
+  </details>
+  
+  <details>
+  <summary><b>🛠️ Environment</b> <i>(Click to expand)</i></summary>
+  
+  <br/>
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  
+  </details>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📊 **GitHub Activity**
+  
+  ```diff
+  + ┌─────────────────────────────────────────────────────────┐
+  + │  Contribution Graph                                     │
+  + └─────────────────────────────────────────────────────────┘
+  ```
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamksr05&theme=redical&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&radius=8)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🚀 **Featured Projects**
+  
+  ```diff
+  + ┌─────────────────────────────────────────────────────────┐
+  + │  Latest Work                                            │
+  + └─────────────────────────────────────────────────────────┘
+  ```
+  
+  <table>
+  <tr>
+  <td align="center" width="50%">
+  
+  #### 🤖 InfoGeniusAI
+  
+  API-based AI solution
   
   [![InfoGeniusAI](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical&hide_border=false)](https://github.com/iamksr05/InfoGeniusAI)
   
   </td>
-  <td width="50%">
+  <td align="center" width="50%">
+  
+  #### 🎓 Comrade Learn AI
+  
+  Learning platform for neurodiverse students
   
   [![Comrade Learn AI](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical&hide_border=false)](https://github.com/iamksr05/comrade-learn-ai)
   
@@ -160,36 +228,42 @@
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
   
-  <h3>💬 Let's connect and collaborate!</h3>
+  ### 🤝 **Connect With Me**
+  
+  ```diff
+  + ┌─────────────────────────────────────────────────────────┐
+  + │  Let's Collaborate!                                     │
+  + └─────────────────────────────────────────────────────────┘
+  ```
   
   <br/>
   
   <a href="https://www.linkedin.com/in/iamksr05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/iamksr05" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:karankr2885@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <br/>
   <br/>
   
-  <img src="https://img.shields.io/badge/Always%20open%20to%20collaborations!-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  ```diff
+  + Always open to collaborations and interesting projects!
+  ```
   
 </div>
 
 ---
 
-## 🎨 Random Dev Quote
-
 <div align="center">
+  
+  ### 🎨 **Daily Inspiration**
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
@@ -197,9 +271,13 @@
 
 ---
 
-## 🐍 Snake Eating Your Contributions
-
 <div align="center">
+  
+  ### 🐍 **Snake Eating My Contributions**
+  
+  ```diff
+  + Watch the snake eat my contribution graph!
+  ```
   
   <img src="https://raw.githubusercontent.com/iamksr05/iamksr05/output/github-snake-dark.svg" alt="Snake animation" />
   
@@ -209,17 +287,25 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32" />
+  ```diff
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                                                           ║
+  ║     "I don't just code — I build, break, learn,          ║
+  ║      improve, and repeat."                                ║
+  ║                                                           ║
+  ║                    - iamksr05                            ║
+  ║                                                           ║
+  ╚═══════════════════════════════════════════════════════════╝
+  ```
   
   <br/>
-  <br/>
   
-  ### ⭐ From **iamksr05**
-  
-  **"I don't just code — I build, break, learn, improve, and repeat."**
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Karan-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
   
   <br/>
   
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Karan-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  ```diff
+  + Thanks for visiting! Feel free to reach out! 👋
+  ```
   
 </div>
