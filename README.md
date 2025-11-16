@@ -1,73 +1,61 @@
-<!-- CYBERPUNK NEON STYLE -->
+<!-- GLASSMORPHISM STYLE -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=850&duration=2500&pause=900&color=F72585&lines=KARAN+RAM;DEVELOPER+%7C+AI%2FML+EXPLORER;BUILDER+MINDSET" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=34&center=true&vCenter=true&width=850&duration=2700&pause=900&color=80DEEA&lines=Karan+Ram;Developer+%7C+AI%2FML+Explorer;System+Integration+Enthusiast" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamksr05&label=Visitors&color=7209B7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=4361EE" />
-  <img src="https://img.shields.io/github/stars/iamksr05?label=Stars&style=for-the-badge&color=4CC9F0" />
+<div align="center" style="backdrop-filter: blur(10px); padding: 20px; border-radius: 16px;">
+  <img src="https://komarev.com/ghpvc/?username=iamksr05&label=Views&color=4DD0E1&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=26C6DA" />
+  <img src="https://img.shields.io/github/stars/iamksr05?label=Stars&style=for-the-badge&color=00BCD4" />
 </div>
 
 ---
 
-# 🕶️ About Me  
-A developer who builds systems, connects APIs, and explores AI/ML.  
-Obsessed with how things work under the hood.
+## 🧊 About Me  
+A builder who connects backend, frontend, and databases — plus an explorer in the world of AI/ML.
 
 ---
 
-# 🔥 Core Skills
+## 🧊 Stack Overview
 
-### 💻 Languages  
-`Python` · `Node.js` · `C` · `JavaScript` · `HTML` · `CSS`
+### 💬 Languages  
+Python | Node.js | C | JavaScript | HTML | CSS  
 
 ### 🗄 Databases  
-`MySQL` · `MongoDB`
+MySQL | MongoDB  
 
 ### 🧪 Exploring  
-`Express.js` · `React` · `Tailwind CSS`
+Express.js | React | Tailwind CSS  
 
 ### 🎨 Creative  
-`After Effects` · `Premiere Pro` · `Figma`
+After Effects | Premiere Pro | Figma  
 
-### 🛠 Workflow  
-`Git` · `GitHub` · `VS Code` · `Postman`
+### ⚙ Workflow  
+Git | GitHub | VS Code | Postman  
 
 ---
 
-# ⚔️ Featured Projects  
+## 🧊 Featured Work  
 
 <div align="center">
 
-![IG](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=tokyonight)
-![CLA](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=tokyonight)
+![IG](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=blue_navy)
+![CL](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=blue_navy)
 
 </div>
 
 ---
 
-# 🕸 Activity  
+## 🧊 Activity  
 <div align="center">
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamksr05&theme=react-dark&hide_border=true&area=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamksr05&theme=github-dark&hide_border=true&area=true)
 
 </div>
 
 ---
 
-# 🔗 Connect  
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/iamksr05/) •  
-[Twitter](https://x.com/iamksr05) •  
-[Email](mailto:karankr2885@gmail.com)
-
-</div>
-
----
-
-<div align="center"><b>“Build. Break. Learn. Upgrade.”</b></div>
+<div align="center"><b>“Build. Break. Learn. Improve. Repeat.”</b></div>
