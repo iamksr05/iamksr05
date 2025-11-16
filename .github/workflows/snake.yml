@@ -35,6 +35,9 @@ jobs:
     runs-on: ubuntu-latest
 
     timeout-minutes: 10
+    # Add this permissions block
+    permissions:
+      contents: write
 
 
 
@@ -44,7 +47,7 @@ jobs:
 
       - name: Checkout Repository
 
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
 
 
@@ -58,7 +61,7 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: iamksr05
 
 
 
@@ -82,7 +85,7 @@ jobs:
 
       - name: Deploy to Output Branch
 
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
 
         with:
 
