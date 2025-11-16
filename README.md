@@ -144,7 +144,7 @@ I have moderate hands-on coding experience, real project exposure, and I’m ste
 
 <div align="center">
 
-![Snake animation](https://github.com/iamksr05/iamksr05/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/iamksr05/iamksr05/output/dist/github-contribution-grid-snake.svg)
 
 </div>
 
