@@ -1,18 +1,15 @@
 <div align="center">
 
-  <!-- First line -->
+  <!-- Line 1: fixed sentence -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=1200&pause=600&color=6366F1&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+I'm+Karan." />
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=1&pause=9999999&color=6366F1&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Karan." />
 
-  <br/>
-
-  <!-- Second line with static "Let's " and cycling words -->
+  <!-- Line 2: Let's + (Dream/Learn/Innovate) -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=1200&pause=600&color=6366F1&center=true&vCenter=true&width=700&height=70&prefix=Let's+&lines=Dream;Learn;Innovate" />
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=1200&pause=600&color=6366F1&center=true&vCenter=true&width=700&height=60&prefix=Let's+&lines=Dream;Learn;Innovate" />
 
 </div>
 
----
 
 <div align="center">
   
