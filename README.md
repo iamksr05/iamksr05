@@ -1,13 +1,15 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=100&duration=1500&pause=500&color=6366F1&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" />
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=iamksr05&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/badge/GitHub-Stars-0e75b6?style=for-the-badge&logo=github" />
-  
+
+  <!-- First line -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=1200&pause=600&color=6366F1&center=true&vCenter=true&width=700&height=70&lines=Hi+there!+I'm+Karan." />
+
+  <br/>
+
+  <!-- Second line with static "Let's " and cycling words -->
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=1200&pause=600&color=6366F1&center=true&vCenter=true&width=700&height=70&prefix=Let's+&lines=Dream;Learn;Innovate" />
+
 </div>
 
 ---
