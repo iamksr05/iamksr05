@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=50&duration=1500&pause=1000&color=6366F1&lines=Hi+there!+I'm+Karan." alt="Hi there! I'm Karan." />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=50&duration=1500&pause=800&color=6366F1&lines=Let's+Dream;Let's+Learn;Let's+Innovate" alt="Let's Dream, Learn, Innovate" />
+  <table border="0" cellpadding="0" cellspacing="0" style="display:inline-block;">
+    <tr>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&vCenter=true&width=110&height=50&duration=1&pause=9999999&color=6366F1&lines=Let's" alt="Let's " />
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&vCenter=true&width=180&height=50&duration=1500&pause=800&color=6366F1&lines=Dream;Learn;Innovate" alt="Dream; Learn; Innovate" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
