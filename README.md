@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&center=true&vCenter=true&width=700&height=60&duration=1200&pause=800&color=6366F1&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&center=true&vCenter=true&width=700&height=60&duration=1200&pause=800&color=8B9AFF&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&center=true&vCenter=true&width=700&height=60&duration=1200&pause=800&color=4F46E5&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&center=true&vCenter=true&width=700&height=60&duration=1200&pause=800&color=6366F1&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" alt="Typing animation" />
+  </picture>
   
   <br/><br/>
   
@@ -200,7 +204,7 @@
   
   <br/>
   
-  ![Snake animation](https://raw.githubusercontent.com/iamksr05/iamksr05/output/github-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/iamksr05/iamksr05/output/github-snake-dark.svg)
   
 </div>
 
