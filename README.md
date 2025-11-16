@@ -200,7 +200,7 @@
 
 <div align="center">
   
-  ## 🐍 Snake Eating Your Contributions
+  ## 🐍 My Contributions
   
   <br/>
   
