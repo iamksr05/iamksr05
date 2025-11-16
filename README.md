@@ -1,5 +1,8 @@
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="display:inline-block;">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=50&duration=1500&pause=1000&color=6366F1&lines=Hi+there!+I'm+Karan." alt="Hi there! I'm Karan." />
+
+  <table border="0" cellpadding="0" cellspacing="0" style="display:inline-block; vertical-align: top;">
     <tr>
       <td>
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&vCenter=true&width=110&height=50&duration=1&pause=9999999&color=6366F1&lines=Let's" alt="Let's " />
@@ -9,9 +12,8 @@
       </td>
     </tr>
   </table>
+  
 </div>
-
----
 
 <div align="center">
   
