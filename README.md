@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=100&duration=1800&pause=600&color=6366F1&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=100&duration=1500&pause=500&color=6366F1&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" />
   
   <br/><br/>
   
