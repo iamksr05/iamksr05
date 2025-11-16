@@ -118,13 +118,7 @@ I have moderate hands-on coding experience, real project exposure, and I’m ste
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-
-</div>
-
-<div align="center">
-
-<sub>💡 *The snake animation will appear after you push this to GitHub and run the workflow from the Actions tab*</sub>
+![Snake animation](https://raw.githubusercontent.com/iamksr05/iamksr05/output/github-snake-dark.svg)
 
 </div>
 
