@@ -200,7 +200,7 @@
   
   <br/>
   
-  ![Snake animation](https://raw.githubusercontent.com/iamksr05/iamksr05/output/github-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/iamksr05/iamksr05/output/github-snake.svg)
   
 </div>
 
