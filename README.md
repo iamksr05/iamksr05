@@ -1,35 +1,6 @@
 <div align="center">
 
-  <svg width="700" height="60" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
-      .text { font-family: 'Righteous', cursive; font-size: 32px; fill: #6366F1; }
-    </style>
-    <text x="350" y="40" text-anchor="middle" class="text">
-      <tspan>
-        <animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0s;11.6s" fill="freeze"/>
-        Hi there! I'm Karan.
-      </tspan>
-    </text>
-    <text x="350" y="40" text-anchor="middle" class="text">
-      <tspan opacity="0">
-        <animate attributeName="opacity" values="0;1;1" dur="0.1s" begin="4s;11.6s" fill="freeze"/>
-        Let's 
-      </tspan>
-      <tspan opacity="0">
-        <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="4.1s;11.7s" fill="freeze"/>
-        Dream
-      </tspan>
-      <tspan opacity="0">
-        <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="6.6s;14.2s" fill="freeze"/>
-        Learn
-      </tspan>
-      <tspan opacity="0">
-        <animate attributeName="opacity" values="0;1;1;0" dur="2.5s" begin="9.1s;16.7s" fill="freeze"/>
-        Innovate
-      </tspan>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=60&duration=2000&pause=1500&color=6366F1&lines=Hi+there!+I'm+Karan.;Let's+Dream;Let's+Learn;Let's+Innovate" />
   
   <br/><br/>
   
