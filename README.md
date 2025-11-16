@@ -39,7 +39,7 @@ I have moderate hands-on coding experience, real project exposure, and I’m ste
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Languages I am working with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -71,22 +71,6 @@ I have moderate hands-on coding experience, real project exposure, and I’m ste
 
 ---
 
-## 📊 GitHub Analytics  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamksr05&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=iamksr05&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamksr05&theme=radical&hide_border=false&layout=compact)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iamksr05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 ## 🔥 Contribution Graph  
 
 <div align="center">
@@ -103,16 +87,6 @@ I have moderate hands-on coding experience, real project exposure, and I’m ste
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical)](https://github.com/iamksr05/InfoGeniusAI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical)](https://github.com/iamksr05/comrade-learn-ai)
-
-</div>
-
----
-
-## 💻 LeetCode Progress  
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/iamksr05?theme=dark&font=Karma&ext=heatmap&border=0&radius=20)
 
 </div>
 
