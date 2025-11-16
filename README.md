@@ -85,19 +85,8 @@ I have moderate hands-on coding experience, real project exposure, and I’m ste
 
 <div align="center">
 
-### 🤖 InfoGeniusAI
-
-**API-based AI solution** - An intelligent API system designed to provide powerful AI capabilities through a robust and scalable architecture.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical)](https://github.com/iamksr05/InfoGeniusAI)
-
-<br/>
-
-### 🎓 Comrade Learn AI
-
-**Learning platform for neurodiverse students** - An innovative educational platform specifically designed to support neurodiverse learners with personalized, accessible learning experiences.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical)](https://github.com/iamksr05/comrade-learn-ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical&show_owner=true)](https://github.com/iamksr05/InfoGeniusAI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical&show_owner=true)](https://github.com/iamksr05/comrade-learn-ai)
 
 </div>
 
