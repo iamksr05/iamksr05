@@ -1,17 +1,9 @@
 <div align="center">
-
-  <!-- Line 1: Fixed -->
-  <h2 style="font-family: Righteous; color:#6366F1;">Hi there! I'm Karan.</h2>
-
-  <!-- Line 2: Let's + typed word -->
-  <h2 style="font-family: Righteous; color:#6366F1; display:flex; justify-content:center; align-items:center; gap:10px;">
-    Let's&nbsp;
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&duration=1200&pause=500&color=6366F1&vCenter=true&width=200&height=60&lines=Dream;Learn;Innovate" />
-  </h2>
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=50&duration=1500&pause=1000&color=6366F1&lines=Hi+there!+I'm+Karan." alt="Hi there! I'm Karan." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=50&duration=1500&pause=800&color=6366F1&lines=Let's+Dream;Let's+Learn;Let's+Innovate" alt="Let's Dream, Learn, Innovate" />
 </div>
 
+---
 
 <div align="center">
   
