@@ -10,14 +10,6 @@
   
 </div>
 
-<br/>
-
-<div align="center">
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Welcome&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-  
-</div>
-
 ---
 
 <div align="center">
@@ -26,14 +18,18 @@
   
   <br/>
   
+  <div align="left" style="max-width: 900px; margin: 0 auto;">
+  
   **I'm a developer who understands how things actually work — APIs, databases, backend logic, and system integration.**  
   I have moderate hands-on coding experience, real project exposure, and I'm steadily moving into **AI & Machine Learning**.
   
+  </div>
+  
   <br/><br/>
   
-  <table>
+  <table width="100%">
   <tr>
-  <td width="50%" valign="top">
+  <td width="50%" valign="top" align="left">
   
   ### ✨ What I currently do
   
@@ -45,7 +41,7 @@
   - 💥 Break things to learn — fix them to grow  
   
   </td>
-  <td width="50%" valign="top">
+  <td width="50%" valign="top" align="left">
   
   ### 💡 What I enjoy
   
@@ -137,8 +133,20 @@
   
   <br/>
   
+  <table>
+  <tr>
+  <td width="50%" align="center">
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical&show_owner=true&hide_border=false)](https://github.com/iamksr05/InfoGeniusAI)
+  
+  </td>
+  <td width="50%" align="center">
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical&show_owner=true&hide_border=false)](https://github.com/iamksr05/comrade-learn-ai)
+  
+  </td>
+  </tr>
+  </table>
   
 </div>
 
@@ -153,14 +161,20 @@
   <br/>
   
   <a href="https://www.linkedin.com/in/iamksr05/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/iamksr05" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:karankr2885@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
+  <br/><br/>
+  
+  <sub>Always open to collaborations and interesting projects! 🚀</sub>
   
 </div>
 
@@ -198,12 +212,12 @@
 
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+Visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=32" />
-  
-  <br/><br/>
-  
   ### ⭐ From **iamksr05**
   
   **"I don't just code — I build, break, learn, improve, and repeat."**
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Karan-6366F1?style=for-the-badge&logo=github&logoColor=white" />
   
 </div>
