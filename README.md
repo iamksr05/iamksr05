@@ -130,33 +130,25 @@
 ---
 
 <div align="center">
-  
-  ## 🎯 Featured Projects
-  
+
+## 🎯 Featured Projects
+
   <br/>
-  
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/iamksr05/InfoGeniusAI">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical&show_owner=true&hide_border=false"
-          alt="InfoGeniusAI"
-        />
-      </a>
-    </td>
 
-    <td width="50%" align="center">
-      <a href="https://github.com/iamksr05/comrade-learn-ai">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical&show_owner=true&hide_border=false"
-          alt="Comrade LearnAI"
-        />
-      </a>
-    </td>
-
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/iamksr05/InfoGeniusAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical&show_owner=true" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iamksr05/comrade-learn-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical&show_owner=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
