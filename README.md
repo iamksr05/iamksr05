@@ -138,9 +138,8 @@
   <table>
   <tr>
   <td width="50%" align="center">
-  ![InfoGeniusAI Repo Card]
-
-  [![InfoGeniusAI](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical&show_owner=true&hide_border=false)](https://github.com/iamksr05/InfoGeniusAI)
+  
+ [![InfoGeniusAI](https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical&show_owner=true&hide_border=false)](https://github.com/iamksr05/InfoGeniusAI)
   
   </td>
   <td width="50%" align="center">
