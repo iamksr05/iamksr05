@@ -138,12 +138,12 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/iamksr05/InfoGeniusAI">
+        <a href="https://github.com/iamksr05/InfoGeniusAI" style="text-decoration: none;">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=InfoGeniusAI&theme=radical&show_owner=true" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/iamksr05/comrade-learn-ai">
+        <a href="https://github.com/iamksr05/comrade-learn-ai" style="text-decoration: none;">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical&show_owner=true" />
         </a>
       </td>
