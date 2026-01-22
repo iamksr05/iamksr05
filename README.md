@@ -144,7 +144,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/iamksr05/comrade-learn-ai" style="text-decoration: none;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical&show_owner=true" />
+          <img src="https://github-readme-stats.vercel.ap/api/pin/?username=iamksr05&repo=comrade-learn-ai&theme=radical&show_owner=true" />
         </a>
       </td>
     </tr>
