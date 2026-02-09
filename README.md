@@ -213,9 +213,7 @@
 ---
 
 <div align="center">
-  
-  ### ⭐ From **iamksr05**
-  
+    
   **"I don't just code — I build, break, learn, improve, and repeat."**
   
   <br/>
