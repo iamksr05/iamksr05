@@ -171,7 +171,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://karanram.netlify.app" target="_blank" style="text-decoration: none; display:inline-block;">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:karankr2885@gmail.com" target="_blank" style="text-decoration: none; display:inline-block;">
