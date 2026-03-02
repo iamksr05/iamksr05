@@ -169,6 +169,10 @@
   <a href="https://x.com/iamksr05" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://karanram.netlify.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   &nbsp;&nbsp;
   <a href="mailto:karankr2885@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
