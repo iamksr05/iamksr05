@@ -9,7 +9,7 @@
   <br/><br/>
   
   <img src="https://komarev.com/ghpvc/?username=iamksr05&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=0e75b6&labelColor=545454&cacheSeconds=86400" />
+  [![Followers](https://img.shields.io/github/followers/iamksr05?label=Followers&style=for-the-badge&color=0e75b6&labelColor=545454)](https://github.com/iamksr05?tab=followers)
   <img src="https://img.shields.io/github/stars/iamksr05?label=Total%20Stars&style=for-the-badge&color=0e75b6&labelColor=545454&cacheSeconds=86400" />
   
 </div>
