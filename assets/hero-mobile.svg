@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="600" viewBox="0 0 720 600" role="img" aria-labelledby="title desc">
+<title id="title">Hero Mobile</title>
+<desc id="desc">Custom graphic for Karan, developer and creative thinker.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111920"/><stop offset="1" stop-color="#080D12"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#D6FF7F"/><stop offset="1" stop-color="#69DDCB"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#B8EE76" stop-opacity=".15"/><stop offset="1" stop-color="#B8EE76" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#97ABB6" stroke-opacity=".055"/></pattern>
+ 
+</defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'DejaVu Sans Mono',monospace}.orbit{transform-box:fill-box;transform-origin:center;animation:spin 36s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.orbit,.pulse{animation:none}}</style>
+<rect width="720" height="600" rx="22" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="719" height="599" rx="22" fill="none" stroke="#26343D"/>
+<rect width="720" height="600" rx="22" fill="url(#grid)"/><circle cx="654" cy="271" r="208" fill="url(#glow)"/><g fill="none" stroke="#D6FF7F" stroke-opacity=".13"><circle cx="660" cy="259" r="120"/><circle cx="660" cy="259" r="172"/><ellipse cx="660" cy="259" rx="180" ry="50" transform="rotate(-45 660 259)"/></g><text x="40" y="57" font-size="21" fill="#C2D1D8" font-weight="500" class="mono" >K / IAMKSR05</text><circle cx="660" cy="49" r="6" fill="#D6FF7F" class="pulse"/><text x="40" y="138" font-size="19" fill="#D6FF7F" font-weight="500" class="mono" >DEVELOPER / CREATIVE THINKER</text><text x="30" y="283" font-size="145" fill="#F1F5EF" font-weight="800" class="" letter-spacing="-9">KARAN.</text><text x="40" y="351" font-size="32" fill="#DBE6E9" font-weight="500" class="" >Curiosity in. Real things out.</text><text x="40" y="407" font-size="24" fill="#99ACB6" font-weight="400" class="" >Backends, connected systems</text><text x="40" y="442" font-size="24" fill="#99ACB6" font-weight="400" class="" >&amp; a creative edge.</text><path d="M40 495H680" stroke="#2B383E"/><text x="40" y="551" font-size="22" fill="#D6FF7F" font-weight="500" class="mono" >BUILD. BREAK. LEARN. REPEAT.</text>
+</svg>
