@@ -9,7 +9,7 @@
 <br />
 
 <p align="center">
-  <a href="https://karanram.netlify.app"><img src="./assets/link-portfolio.svg" height="36" alt="Portfolio" /></a>
+  <a href="https://karanram.netlify.app" target="_blank"><img src="./assets/link-portfolio.svg" height="36" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/iamksr05/"><img src="./assets/link-linkedin.svg" height="36" alt="LinkedIn" /></a>
   <a href="mailto:karankr2885@gmail.com"><img src="./assets/link-email.svg" height="36" alt="Email Karan" /></a>
   <a href="https://x.com/iamksr05"><img src="./assets/link-x.svg" height="36" alt="X / Twitter" /></a>
