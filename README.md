@@ -1,7 +1,9 @@
-<!-- Custom, repository-hosted SVG artwork. Keep assets/ alongside this README. -->
+<!-- Self-contained motion artwork. Upload the entire assets folder with this README. -->
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
-  <img src="./assets/hero.svg" width="100%" alt="Karan — developer and creative thinker. Curiosity in. Real things out. Build, break, learn, repeat." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.svg" />
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.gif" />
+  <img src="./assets/hero.gif" width="100%" alt="Karan. Developer by curiosity. Turning wild ideas into working systems. An animated cosmic portal orbits beside my name." />
 </picture>
 
 <br />
@@ -15,28 +17,34 @@
 
 <br />
 
-## 01 / The person behind the code
-
-I'm **Karan**. I like knowing what happens *after* you click the button — the API call, the backend logic, the database query, and the pieces that make a product work.
-
-I build across those connections, learn through real projects, and bring a creative eye to the experience. My next frontier is **AI & machine learning**. My approach stays the same: understand it, experiment with it, and make something useful.
-
-> **Curious enough to take it apart. Persistent enough to put it back together.**
+<picture><source media="(max-width: 600px)" srcset="./assets/section-01-mobile.svg" /><img src="./assets/section-01.svg" width="100%" alt="01 — A human behind the handle" /></picture>
 
 <br />
 
-## 02 / Selected work
+**Hey, I'm Karan.** I follow the interesting questions. What happens after you click that button? How does the data get there? What makes all these systems work together?
 
-Two repositories from my building journey. Dive into the code, explore the decisions, and see the work for yourself.
+That curiosity takes me through **APIs, backend logic, databases, and system integration** — with a creative eye for the experience on the other side. I'm also exploring **AI & machine learning**, one experiment at a time.
 
-<a href="https://github.com/iamksr05/InfoGeniusAI"><img src="./assets/project-infogenius.svg" width="390" alt="Selected repository 01: InfoGeniusAI — explore the code" /></a>
-<a href="https://github.com/iamksr05/comrade-learn-ai"><img src="./assets/project-comrade.svg" width="390" alt="Selected repository 02: comrade-learn-ai — explore the code" /></a>
+> **I build to understand. I break things to learn. I keep going to make them better.**
+
+<br />
+
+<picture><source media="(max-width: 600px)" srcset="./assets/section-02-mobile.svg" /><img src="./assets/section-02.svg" width="100%" alt="02 — Ideas, out in the open. Selected work." /></picture>
+
+<br />
+
+A few stops on my building journey. Click a card to explore the code.
+
+<a href="https://github.com/iamksr05/InfoGeniusAI"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-infogenius.svg" /><img src="./assets/project-infogenius.gif" width="420" alt="InfoGeniusAI — view the repository" /></picture></a>
+<a href="https://github.com/iamksr05/comrade-learn-ai"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-comrade.svg" /><img src="./assets/project-comrade.gif" width="420" alt="comrade-learn-ai — view the repository" /></picture></a>
 
 **[Explore all repositories ↗](https://github.com/iamksr05?tab=repositories)**
 
 <br />
 
-## 03 / My working toolkit
+<picture><source media="(max-width: 600px)" srcset="./assets/section-03-mobile.svg" /><img src="./assets/section-03.svg" width="100%" alt="03 — My creative toolkit" /></picture>
+
+<br />
 
 Tools I use, ideas I'm exploring, and the creative side that comes with me.
 
@@ -51,23 +59,11 @@ Tools I use, ideas I'm exploring, and the creative side that comes with me.
 
 <br />
 
-## 04 / How I think
+**Currently exploring:** backend depth, better interfaces, and AI/ML foundations.
 
-**Understand the system.** Follow the data, question the assumptions, and figure out how the pieces connect.
-
-**Make it useful.** Build for real people, with clear interactions and a reason behind each decision.
-
-**Keep the creative edge.** Code, motion, and design are different ways to turn an idea into an experience.
-
-**Stay a learner.** Experiment. Test. Break things. Fix them. Carry the lesson into the next build.
+**Creative side quests:** motion, video editing, and making digital things feel intuitive.
 
 <br />
-
-## 05 / The work continues
-
-Backend depth. Better interfaces. AI/ML foundations. There's always another layer to understand.
-
-**[See my GitHub activity ↗](https://github.com/iamksr05?tab=overview)**
 
 <details>
 <summary><b>A little motion from my contribution history 🐍</b></summary>
@@ -83,6 +79,6 @@ Generated from my GitHub contributions by the workflow in this repository.
 
 <br />
 
-<a href="mailto:karankr2885@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Let’s build something that matters. Open to collaborations and interesting projects. Email Karan." /></a>
+<a href="mailto:karankr2885@gmail.com"><picture><source media="(max-width: 600px)" srcset="./assets/footer-mobile.svg" /><img src="./assets/footer.svg" width="100%" alt="Good things start with what if. Open to collaborations and interesting projects. Email Karan." /></picture></a>
 
 <p align="center"><sub>Dream. Learn. Innovate. &nbsp; / &nbsp; <a href="https://github.com/iamksr05">@iamksr05</a></sub></p>

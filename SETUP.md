@@ -1,22 +1,35 @@
-# Put the new profile live
+# Karan / Cosmic profile
 
-1. Unzip this folder.
-2. Copy `README.md`, the complete `assets/` folder, and `.github/workflows/snake.yml` into the root of your public `iamksr05/iamksr05` repository. Replace the existing files of the same names. Do not upload the enclosing `iamksr05-main` folder as an extra directory.
-3. Commit to your default branch. The README and custom artwork are ready immediately.
-4. For the optional contribution snake, open **Actions → GitHub Snake Game → Run workflow** on the `main` branch. The existing workflow generates assets on the `output` branch and also runs daily. If your default branch is not `main`, update its push branch in `.github/workflows/snake.yml` first.
-5. If GitHub disables Actions, enable them in the repository. The included workflow requests `contents: write`; repository or organization policy must allow that permission. No personal access token is needed. Once the workflow finishes, expand the snake section in the README.
+## Make it live
 
-## Preview
+1. Unzip the folder.
+2. Copy `README.md`, the entire `assets/` directory, and `.github/workflows/snake.yml` into the root of the public `iamksr05/iamksr05` repository. Replace existing files with the same names. Do not place the enclosing `iamksr05-main` folder inside the repository.
+3. Commit to your default branch. The hero and both project cards use local, pre-rendered animated GIFs. No account, API key, or animation service is needed.
+4. Optional: run **Actions → GitHub Snake Game → Run workflow**. The preserved workflow generates contribution art on the `output` branch daily and on pushes to `main`. Change the branch filter if your default branch has a different name. Repository policy must allow its requested `contents: write` permission.
 
-Open `PREVIEW.html` in a browser with `assets/` next to it. This is a local approximation of GitHub's Markdown layout, not a screenshot from the live profile. The preview includes a light/dark switch. The header has gentle orbital motion, and respects reduced-motion preferences. A narrower header is selected on small screens. The contribution snake is a separate remotely generated asset and needs its first successful workflow run.
+## Explore the design
 
-## Editing
+Open `PREVIEW.html` in your browser with `assets/` alongside it. Use the light/dark switch and narrow your browser window to preview mobile. This approximates GitHub's layout; it is not a live GitHub screenshot. The local browser preview has not been browser-tested in this environment.
 
-- Edit your biography, toolkit, and links directly in `README.md`.
-- Custom vector artwork lives in `assets/`; SVG text can be edited in a text editor.
-- Keep relative paths intact. Upload the assets along with the README.
-- The existing project URLs and social/contact links were preserved from your original README. Repository contents and link availability could not be independently verified here, so no new project capabilities or results are claimed.
-- The essential design has no external badge, quote, or stats service dependency. The optional snake keeps your original GitHub Actions workflow.
-- `PREVIEW.html` and `SETUP.md` are optional helper files; they do not need to be uploaded to your profile repository.
+- Cinematic six-second looping hero: rotating 3D filament portal, orbiting particles, luminous lettering, and a typing console.
+- Separate portrait hero for narrow screens.
+- Two animated project cards, with independent cosmic and connected-node scenes.
+- Matching section markers, contact links, and closing banner.
+- Static SVG alternatives selected through `prefers-reduced-motion` in each picture element, subject to the viewing client's media-query support.
+- Your original contribution snake is preserved as an optional expandable section.
 
-GitHub's profile README requirements: https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+All motion is pre-rendered GIF, with editable static SVG artwork alongside it. The README does not use JavaScript or custom CSS. The preview helper uses its own CSS only to approximate Markdown formatting.
+
+## What to upload
+
+Required: `README.md`, `assets/`.
+Optional contribution workflow: `.github/workflows/snake.yml`.
+Helper files not needed on GitHub: `PREVIEW.html`, `SETUP.md`, and `design-source/`.
+
+## Keep it personal
+
+Edit the README text, toolkit, and links whenever your experience changes. The project and contact URLs are retained from your original README. Their current availability and repository content were not independently verified, so the redesign does not invent project features, metrics, credentials, or experience.
+
+Custom artwork is repository-hosted; it has no external stats, quote, or badge service dependency. GIFs can be replaced with the included SVG stills if you prefer a lighter or fully static profile.
+
+Official profile setup requirements: https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
